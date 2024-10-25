@@ -1,0 +1,33 @@
+body{
+    margin: 0 auto;
+    max-width: 450px;
+}
+    input{
+    width:400px;
+    height:30px;
+    border-radius: 6px;
+    border-color: blue;
+    margin-top:20px;
+}
+
+button{
+    margin-top: 20px;
+    height:30px;
+    width:100px;
+    color:white;
+    background-color: blue;
+    border:none;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+#button-del{
+    background-color: white;
+    border: 1px solid blue;
+    color:blue;
+}
